@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "name": "Aragorn",
+    "score": 94
+},
+{
+    "id": 2,
+    "name": "Gandalf",
+    "score": 104
+},
+{
+    "id": 3,
+    "name": "Frodo",
+    "score": 58
+},
+{
+    "id": 4,
+    "name": "Sam",
+    "score": 78
+},
+{
+    "id": 5,
+    "name": "Gimli",
+    "score": 67
+}
+]

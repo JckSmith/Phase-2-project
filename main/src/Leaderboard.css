@@ -1,0 +1,13 @@
+td, tr {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  tr {
+    background-color: rgb(255,233,11);
+    font-size: 14px;
+    font-weight: 600;
+    color: #34495e;
+    text-align: center;
+  }
